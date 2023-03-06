@@ -1,16 +1,7 @@
 # u_and_i
 
-A new Flutter project.
+### 프로젝트 정보
+인프런 - [코드팩토리] [초급] Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 이미지 사용 라이선스
+<a href="https://kr.freepik.com/free-vector/men-and-women-who-show-love-for-each-other_13575829.htm#query=%EC%97%B0%EC%9D%B8&position=1&from_view=keyword&track=sph">작가 jcomp</a> 출처 Freepik
